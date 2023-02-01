@@ -1,0 +1,10 @@
+# ignore the docs folder
+.dockerignore
+
+nginx.conf
+
+README.md
+
+dockerfile
+
+jenkinsfile
