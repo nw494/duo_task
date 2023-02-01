@@ -7,7 +7,7 @@ FROM python:3.7
 # Install pip dependencies from requirements
 RUN pip install Flask
 # Set YOUR_NAME environment variable
-ENV YOUR_NAME="Nikki123"
+ENV YOUR_NAME="Nikki testing my build"
 # Expose the correct port
 EXPOSE 5500
 # Create an entrypoint
